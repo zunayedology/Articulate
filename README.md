@@ -3,7 +3,6 @@
 
 This application is built as an individual project on Spring 2023.
 
-ABOUT -
 
 ### MD ZUNAYEDUL ISLAM
 Student ID: 22241165 (20101381)  
