@@ -1,4 +1,4 @@
-# AlgoRhythm
+# Articulate
 ## A full stack blogging web application built using MERN stack and MVC architecture
 
 This application is built as an individual project on Spring 2023.
