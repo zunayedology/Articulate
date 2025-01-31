@@ -7,8 +7,7 @@ This application is built as an individual project on Spring 2023.
 ### MD ZUNAYEDUL ISLAM
 Student ID: 22241165 (20101381)  
 Course Code: CSE470  
-Course Title: Software Engieering  
-Section: 7  
+Course Title: Software Engineering  
 
 
 Department of Computer Science & Engineering  
